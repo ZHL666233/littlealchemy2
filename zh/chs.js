@@ -1691,14 +1691,7 @@ var cnItems = {
   'You will never find a more wretched hive of scum and wetland-that\'s-heavily-dependant-upon-natural-water-fluctuations.': '你再也找不到比这更肮脏的、依赖自然水位变化的湿地黑窝了。',
   'Z to A': 'Z-A',
   'Z to A ': 'Z-A ',
-
-  // 占位，后续发现的新词条会自动加到这里
-};
-
-var cnResourceNames = {};
-var cnRegReplace = new Map([]);
-var cnPrefix = {};
-var cnPostfix = {  'Final items don\'t mix with any other items. When you tap them they\'re removed from the workspace but you can always find them in the encyclopedia.': '最终物品不会与其他物品合成。点击它们会从工作区移除，但你随时可以在百科中找到它们。',
+'Final items don\'t mix with any other items. When you tap them they\'re removed from the workspace but you can always find them in the encyclopedia.': '最终物品不会与其他物品合成。点击它们会从工作区移除，但你随时可以在百科中找到它们。',
   'Impressive!': '了不起！',
   'You discovered all available combinations!': '你发现了所有可用的组合！',
   'Enjoy the art mode!': '享受艺术模式吧！',
@@ -1731,6 +1724,13 @@ var cnPostfix = {  'Final items don\'t mix with any other items. When you tap th
   'OpenSans+Noto': 'OpenSans+Noto',
   'System default': '系统默认',
   'Twemoji': 'Twitter表情',
+  // 占位，后续发现的新词条会自动加到这里
+};
+
+var cnResourceNames = {};
+var cnRegReplace = new Map([]);
+var cnPrefix = {};
+var cnPostfix = {  
 };
 var cnExcludeWhole = [];
 var cnExcludePostfix = [];
