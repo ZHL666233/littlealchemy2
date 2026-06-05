@@ -3,9 +3,9 @@
  @version : V1.1
 */
 
-var cnConfig = { ignoreCase: true, trimSpaces: true };
+window.cnConfig = { ignoreCase: true, trimSpaces: true };
 
-var cnItems = {
+window.cnItems = {
   ' + ': ' + ',
   ' Are you sure? ': ' 确定吗？',
   ' back': ' 返回',
@@ -3165,9 +3165,9 @@ var cnItems = {
   'You discovered your first final item!': '你发现了你的第一个最终物品！',
 };
 
-var cnResourceNames = {};
-var cnRegReplace = new Map([]);
-var cnPrefix = {};
-var cnPostfix = {};
-var cnExcludeWhole = [];
-var cnExcludePostfix = [];
+window.cnResourceNames = {};
+window.cnRegReplace = new Map([]);
+window.cnPrefix = {};
+window.cnPostfix = {};
+window.cnExcludeWhole = [];
+window.cnExcludePostfix = [];
