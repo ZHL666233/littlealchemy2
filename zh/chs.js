@@ -3172,6 +3172,11 @@ window.cnItems = {
   'Don’t worry! None of your progress will be lost! On the next load the game will ask you if you want to combine the local and cloud save or if you want to pick just one of them.': '别担心！你的进度不会丢失！下次加载时，游戏会询问你是想合并本地存档和云存档，还是只保留其中之一。',
   'Dont worry! None of your progress will be lost! On the next load the game will ask you if you want to combine the local and cloud save or if you want to pick just one of them.': '别担心！你的进度不会丢失！下次加载时，游戏会询问你是想合并本地存档和云存档，还是只保留其中之一。',
   'Final items don’t mix with any other items. When you tap them they’re removed from the workspace but you can always find them in the encyclopedia.': '最终物品不会与其他物品合成。点击它们会从工作区移除，但你随时可以在百科中找到它们。',
+  'You discovered your first <strong>final item</strong>!': '你发现了你的第一个<strong>最终物品</strong>！',
+  'You discovered your first <strong>basic item</strong>!': '你发现了你的第一个<strong>基础物品</strong>！',
+  'You discovered a new <strong>basic item</strong>!': '你发现了一个新的<strong>基础物品</strong>！',
+  '<strong>Nice!</strong><br>You discovered all available items!<br>If you feel adventureous you can look for the remaining combinations!': '<strong>太棒了！</strong><br>你发现了所有可用的物品！<br>如果你还有冒险精神，可以继续寻找剩余的合成配方！',
+  '<strong>Impressive!</strong><br>You discovered all available combinations!<br>Enjoy the art mode!': '<strong>了不起！</strong><br>你发现了所有可用的组合！<br>享受艺术模式吧！',
 };
 
 window.cnResourceNames = {};
