@@ -3179,10 +3179,6 @@ window.cnItems = {
   '<strong>Impressive!</strong><br />You discovered all available combinations!<br />Enjoy the art mode!': '<strong>了不起！</strong><br>你发现了所有可用的组合！<br>享受艺术模式吧！',
   'You discovered a new <strong>basic item</strong>!<br />Unlike the items you discover by mixing two things together, basic items can be unlocked by satisfying hidden goals!': '你发现了一个新的<strong>基础物品</strong>！<br />与通过合成获得的物品不同，基础物品需要通过达成隐藏目标来解锁！',
   'You discovered your first <strong>final item</strong>!<br />Since final items don\'t mix with anything they will hide into the encyclopedia when you tap them.': '你发现了你的第一个<strong>最终物品</strong>！<br />最终物品不会与其他物品合成。点击它们会从工作区移除，但你随时可以在百科中找到它们。',
-  'Encyclopedia is at the heart of any research! Here’s a few tips how to get the most out it if.': '百科是任何研究的核心！以下是几个帮助你充分利用百科的小技巧。',
-  'The items tab displays a list of all items you discovered in the game. You can find here all of the final and depleted that don’t show up in the library. You can toggle the categories to filter the content of the list. And if you found an item you want to use, you can tap the ‘add to workspace’ button to send it directly to the game.': '物品标签页显示你在游戏中发现的所有物品列表。你可以在这里找到所有不在图鉴中显示的最终物品和已耗尽物品。你可以切换分类来筛选列表内容。如果找到了想使用的物品，点击「添加到工作区」按钮即可直接发送到游戏中。',
-  'To login open the settings menu and choose the login option. Then pick the type of the account you want to use and follow with the login details. That’s it! Next time you open the game you will be signed in automatically.': '要登录，打开设置菜单并选择登录选项。然后选择你想使用的账号类型，按提示输入登录信息。就这样！下次打开游戏时你会自动登录。',
-  'These are the items you get from the beginning or the items you unlocked by satisfying certain conditions.': '这些是你从一开始就拥有的物品，或通过满足特定条件解锁的物品。',
 };
 
 window.cnResourceNames = {};
