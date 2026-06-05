@@ -3165,6 +3165,10 @@ window.cnItems = {
   'You discovered your first final item!': '你发现了你的第一个最终物品！',
   'You discovered a new ': '你发现了一个新的',
   'Unlike the items you discover by mixing two things together, basic items can be unlocked by satisfying hidden goals!': '与通过合成获得的物品不同，基础物品需要通过达成隐藏目标来解锁！',
+  ' is now a ': ' 现在是一个',
+  ' is now a depleted item!': ' 现在是一个已耗尽物品！',
+  ' is now a 已耗尽物品!': ' 现在是一个已耗尽物品！',
+  ' is now a 已耗尽物品！': ' 现在是一个已耗尽物品！',
 };
 
 window.cnResourceNames = {};
