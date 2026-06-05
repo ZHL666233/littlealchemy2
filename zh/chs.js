@@ -3172,6 +3172,11 @@ window.cnItems = {
   'Don’t worry! None of your progress will be lost! On the next load the game will ask you if you want to combine the local and cloud save or if you want to pick just one of them.': '别担心！你的进度不会丢失！下次加载时，游戏会询问你是想合并本地存档和云存档，还是只保留其中之一。',
   'Dont worry! None of your progress will be lost! On the next load the game will ask you if you want to combine the local and cloud save or if you want to pick just one of them.': '别担心！你的进度不会丢失！下次加载时，游戏会询问你是想合并本地存档和云存档，还是只保留其中之一。',
   'Final items don’t mix with any other items. When you tap them they’re removed from the workspace but you can always find them in the encyclopedia.': '最终物品不会与其他物品合成。点击它们会从工作区移除，但你随时可以在百科中找到它们。',
+  'Encyclopedia is at the heart of any research! Here\'s a few tips how to get the most out it if.': '百科是任何研究的核心！以下是几个帮助你充分利用百科的小技巧。',
+  'The items tab displays a list of all items you discovered in the game. You can find here all of the final and depleted that don\'t show up in the library. You can toggle the categories to filter the content of the list.': '物品标签页显示你在游戏中发现的所有物品列表。你可以在这里找到所有不在图鉴中显示的最终物品和已耗尽物品。切换分类可以筛选列表内容。找到想使用的物品，点击「添加到工作区」按钮即可。',
+  'To login open the settings menu and choose the login option. Then pick the type of the account you want to use and follow with the login details. That\'s it! Next time you open the game you will be signed in automatically.</p>\\n': '打开设置菜单选择登录选项，选择你使用的账号类型并输入登录信息。下次打开游戏时会自动登录。',
+  'These are the items you get from the beginning or the items you unlocked by satisfying certain conditions.': '这些是你从一开始就拥有的物品，或通过满足特定条件解锁的物品。',
+  'Don\'t worry! None of your progress will be lost! On the next load the game will ask you if you want to combine the local and cloud save or if you want to pick just one of them.</p>\\n': '别担心！你的进度不会丢失！下次加载时游戏会询问是合并本地和云存档还是只保留一个。',
 };
 
 window.cnResourceNames = {};
