@@ -3169,6 +3169,9 @@ window.cnItems = {
   ' is now a depleted item!': ' 现在是一个已耗尽物品！',
   ' is now a 已耗尽物品!': ' 现在是一个已耗尽物品！',
   ' is now a 已耗尽物品！': ' 现在是一个已耗尽物品！',
+  'Don’t worry! None of your progress will be lost! On the next load the game will ask you if you want to combine the local and cloud save or if you want to pick just one of them.': '别担心！你的进度不会丢失！下次加载时，游戏会询问你是想合并本地存档和云存档，还是只保留其中之一。',
+  'Dont worry! None of your progress will be lost! On the next load the game will ask you if you want to combine the local and cloud save or if you want to pick just one of them.': '别担心！你的进度不会丢失！下次加载时，游戏会询问你是想合并本地存档和云存档，还是只保留其中之一。',
+  'Final items don’t mix with any other items. When you tap them they’re removed from the workspace but you can always find them in the encyclopedia.': '最终物品不会与其他物品合成。点击它们会从工作区移除，但你随时可以在百科中找到它们。',
 };
 
 window.cnResourceNames = {};
