@@ -3161,6 +3161,8 @@ var cnItems = {
   'Zombie': '僵尸',
   'zoo': '动物园',
   'Zoo': '动物园',
+  'Since final items dont mix with anything they will hide into the encyclopedia when you tap them.': '最终物品不会与其他物品合成。点击它们会从工作区移除，但你随时可以在百科中找到它们。',
+  'You discovered your first final item!': '你发现了你的第一个最终物品！',
 };
 
 var cnResourceNames = {};
