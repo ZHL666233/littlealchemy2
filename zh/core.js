@@ -598,15 +598,6 @@ var transTaskMgr = {
 
 function TransSubTextNode(node) {
     if (node.childNodes.length) {
-        // 先检查整个 innerHTML 是否匹配（处理带 <strong> 等标签的文本）
-        if (node.innerHTML) {
-            let html = node.innerHTML.trim();
-            let cnHtml = cnItem(html, node);
-            if (cnHtml !== html) {
-                transTaskMgr.addTask(node, 'innerHTML', cnHtml);
-                return;
-            }
-        }
         for (let subnode of node.childNodes) {
             if (subnode.nodeName === "#text") {
                 let text = subnode.textContent;
@@ -645,15 +636,6 @@ function TransSubTextNode(node) {
                     if (node.nodeName === "#text") {
                         node.textContent = cnItem(node.textContent, node);
                     } else if (node.nodeName !== "SCRIPT" && node.nodeName !== "STYLE" && node.nodeName !== "TEXTAREA") {
-                        // 先检查整个 innerHTML 是否匹配
-                        if (node.innerHTML) {
-                            let html = node.innerHTML.trim();
-                            let cnHtml = cnItem(html, node);
-                            if (cnHtml !== html) {
-                                node.innerHTML = cnHtml;
-                                continue;
-                            }
-                        }
                         if (!node.childNodes || !node.childNodes.length) {
                             if (node.innerText) node.innerText = cnItem(node.innerText, node);
                         } else {
