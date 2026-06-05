@@ -3175,8 +3175,10 @@ window.cnItems = {
   'You discovered your first <strong>final item</strong>!': '你发现了你的第一个<strong>最终物品</strong>！',
   'You discovered your first <strong>basic item</strong>!': '你发现了你的第一个<strong>基础物品</strong>！',
   'You discovered a new <strong>basic item</strong>!': '你发现了一个新的<strong>基础物品</strong>！',
-  '<strong>Nice!</strong><br>You discovered all available items!<br>If you feel adventureous you can look for the remaining combinations!': '<strong>太棒了！</strong><br>你发现了所有可用的物品！<br>如果你还有冒险精神，可以继续寻找剩余的合成配方！',
-  '<strong>Impressive!</strong><br>You discovered all available combinations!<br>Enjoy the art mode!': '<strong>了不起！</strong><br>你发现了所有可用的组合！<br>享受艺术模式吧！',
+  '<strong>Nice!</strong><br />You discovered all available items!<br />If you feel adventureous you can look for the remaining combinations!': '<strong>太棒了！</strong><br>你发现了所有可用的物品！<br>如果你还有冒险精神，可以继续寻找剩余的合成配方！',
+  '<strong>Impressive!</strong><br />You discovered all available combinations!<br />Enjoy the art mode!': '<strong>了不起！</strong><br>你发现了所有可用的组合！<br>享受艺术模式吧！',
+  'You discovered a new <strong>basic item</strong>!<br />Unlike the items you discover by mixing two things together, basic items can be unlocked by satisfying hidden goals!': '你发现了一个新的<strong>基础物品</strong>！<br />与通过合成获得的物品不同，基础物品需要通过达成隐藏目标来解锁！',
+  'You discovered your first <strong>final item</strong>!<br />Since final items don\'t mix with anything they will hide into the encyclopedia when you tap them.': '你发现了你的第一个<strong>最终物品</strong>！<br />最终物品不会与其他物品合成。点击它们会从工作区移除，但你随时可以在百科中找到它们。',
 };
 
 window.cnResourceNames = {};
