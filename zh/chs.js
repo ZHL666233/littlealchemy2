@@ -1698,6 +1698,20 @@ var cnItems = {
 var cnResourceNames = {};
 var cnRegReplace = new Map([]);
 var cnPrefix = {};
-var cnPostfix = {};
+var cnPostfix = {  'Final items don\'t mix with any other items. When you tap them they\'re removed from the workspace but you can always find them in the encyclopedia.': '最终物品不会与其他物品合成。点击它们会从工作区移除，但你随时可以在百科中找到它们。',
+  'Impressive!': '了不起！',
+  'You discovered all available combinations!': '你发现了所有可用的组合！',
+  'Enjoy the art mode!': '享受艺术模式吧！',
+  'Nice!': '太棒了！',
+  'You discovered all available items!': '你发现了所有可用的物品！',
+  'If you feel adventureous you can look for the remaining combinations!': '如果你还有冒险精神，可以继续寻找剩余的合成配方！',
+  'Unknown error occured!': '发生未知错误！',
+  'You discovered a new basic item!': '你发现了一个新的基础物品！',
+  'basic item': '基础物品',
+  'Unlike the items you discover by mixing two things together, basic items can be unlocked by satisfying hidden goals!': '与通过合成获得的物品不同，基础物品需要通过达成隐藏目标来解锁！',
+  'You discovered your first final item!': '你发现了你的第一个最终物品！',
+  'final item': '最终物品',
+  'Since final items don\'t mix with anything they will hide into the encyclopedia when you tap them.': '由于最终物品无法与任何物品合成，点击它们后会自动藏入百科中。',
+};
 var cnExcludeWhole = [];
 var cnExcludePostfix = [];
